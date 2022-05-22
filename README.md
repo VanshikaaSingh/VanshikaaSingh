@@ -22,7 +22,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :woman_technologist: About Me :
   I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   
 - :telescope: I’m a student at KIIT university pursuing B.tech degree in computer science 4th year.
